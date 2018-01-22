@@ -1,0 +1,137 @@
+
+/* This is for the head part */
+
+header.phase {
+	background-color: hsl(69, 100%,50%);
+	color: hsl(209, 100%,50%);
+	width:100%;
+	padding:15px;
+	position:absolute;
+	left:-10px;
+	top:-10px;
+
+}
+
+a.articleLink{
+	padding:10px;
+	background-color: hsl(50,100%,50%);
+	color:white;
+	left:485px;
+	top:-20;
+	width:125px;
+	position:absolute;
+	background-attachment:center;
+	
+}
+
+/*Body*/
+
+/*Article and paragraph description*/
+h1.mainTitle {
+	position:relative;
+	left:50px;
+	
+}
+
+h1.articleTitle {
+	font-size:30px;
+}
+
+p.articleAuthor {
+	font-size:20px;
+	
+}
+
+p.articleStoryFont {
+	font-size:17px;
+}
+
+/*Body Description*/
+body.phase {
+	height:1674px;
+	position:relative;
+	width:100%;
+	
+}
+
+img.first {
+	position:absolute;
+	height:200px;
+	left:475px;
+	top:20px;
+}
+
+
+footer.phase {
+	height:1000px;
+	background-color:blue;
+	background-attachment: absolute;
+	
+}
+
+article.firstStory {
+	position:absolute;
+	top:125px;
+	left:150px;
+	
+}
+
+
+article.secondStory {
+	position:absolute;
+	top:390px;
+	left:145px;
+	
+}
+
+article.thirdStory {
+	position:absolute;
+	top:125px;
+	left:850px;
+	
+}
+
+article.lastStory {
+	position:absolute;
+	top:390px;
+	left:850px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
